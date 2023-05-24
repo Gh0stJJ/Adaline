@@ -1,0 +1,15 @@
+﻿10000,Si,No,0,Alquiler,No,7,15,H,1
+20000,No,Si,1,Alquiler,Si,3,3,M,10
+15000,Si,Si,2,Prop,Si,5,10,H,1
+30000,Si,Si,1,Alquiler,No,15,7,M,1
+10000,Si,Si,0,Prop,Si,1,6,H,1
+40000,No,Si,0,Alquiler,Si,3,16,M,10
+25000,No,No,0,Alquiler,Si,0,8,H,1
+20000,No,Si,0,Prop,Si,2,6,M,10
+20000,Si,Si,3,Prop,No,7,5,H,1
+30000,Si,Si,2,Prop,No,1,20,H,1
+50000,No,No,0,Alquiler,No,2,12,M,10
+8000,Si,Si,2,Prop,No,3,1,H,1
+20000,No,No,0,Alquiler,No,27,5,M,10
+10000,No,Si,0,Alquiler,Si,0,7,H,1
+8000,No,Si,0,Alquiler,No,3,2,H,1
